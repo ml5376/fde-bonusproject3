@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/CMakeFiles/googletest
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/CMakeFiles/googletest.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/CMakeFiles/googletest-complete.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-build.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-configure.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-download.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-install.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-mkdir.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-patch.rule
+/Users/meiqiliu/CLionProjects/ga27jol/fde21-bonusproject-3/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-update.rule
